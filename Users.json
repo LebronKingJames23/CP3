@@ -1,0 +1,41 @@
+{ 
+    "_id" : ObjectId("5a4d13ead834a9029495549f"), 
+    "name" : "zhezhishichuanshuo", 
+    "password" : "chouxiang"
+}
+{ 
+    "_id" : ObjectId("5a4d1605d834a902949554a0"), 
+    "name" : "haodelaoge", 
+    "num" : 3.0
+}
+{ 
+    "_id" : ObjectId("5a4d1648c02b2dcb4429f00d"), 
+    "name" : "ko"
+}
+{ 
+    "_id" : ObjectId("5a4d16b98b259a9d9020025b"), 
+    "num" : 1.0
+}
+{ 
+    "_id" : ObjectId("5a4f1deec7d47300c09705b3"), 
+    "_class" : "com.monguo.orc.pojo.User", 
+    "name" : "xinzeng", 
+    "password" : "234"
+}
+{ 
+    "_id" : ObjectId("5a4f630c864fdf1dc82a52cb"), 
+    "_class" : "com.monguo.orc.pojo.User", 
+    "name" : "xiaoming", 
+    "password" : "123"
+}
+{ 
+    "_id" : ObjectId("5a4f6611864fdf066ccdec18"), 
+    "_class" : "com.monguo.orc.pojo.User", 
+    "name" : "小王", 
+    "password" : "123"
+}
+{ 
+    "_id" : ObjectId("5a4f664c570595f43585d55f"), 
+    "name" : "校长", 
+    "password" : "123"
+}
